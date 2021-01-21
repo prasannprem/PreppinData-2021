@@ -1,0 +1,4 @@
+The following folder contains solution for PreppinData Week 3 challenge. The challenge focuses on data preparation using unions, pivots and aggregation.
+"PD 2021 Wk 2 Input" is the input file on which data cleaning and transformation is to be performed.
+"Week3 Challenge Flow" is the flow created in Tableau Prep to solve the problem
+"Product Quarter Type" & "Customer Product Quarter Type" are the outputs to be used for comparison.
