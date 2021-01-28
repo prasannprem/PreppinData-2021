@@ -1,0 +1,5 @@
+The following folder contains solution for PreppinData Week 4 challenge. The challenge focuses on data preparation using wildcard union, join, pivots and aggregation.
+"PD 2021 Wk 4 Input" is the input file on which data cleaning and transformation is to be performed.
+"Week 4 Challenge Flow" is the .tfl file or flow created in Tableau Prep to solve the problem
+"Week 4 Output" is the output to be used for comparison.
+Also, the flow images with comments are added to be used for reference 
