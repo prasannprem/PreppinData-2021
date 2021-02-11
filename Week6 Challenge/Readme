@@ -1,0 +1,5 @@
+The following folder contains solution for PreppinData Week 6 challenge. The challenge focuses on data preparation using mainly pivots and aggregation. Use of calculated fields such as rank, partition and orderby will help you complete the solution in an efficient way.
+"PGALPGAMoney2019" is the input file on which data cleaning and transformation is to be performed.
+"Week 6 Challenge Flow" is the .tfl file or flow created in Tableau Prep to solve the problem
+"Week 6 Output.csv" is the output to be used for comparison.
+Also, the flow images with comments are added to be used for reference 
